@@ -9,4 +9,5 @@ kaleido
 python-dateutil
 pytz
 matplotlib
+seaborn 
 

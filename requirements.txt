@@ -1,8 +1,10 @@
+streamlit
 pandas
 numpy
-xgboost
+kagglehub
+plotly
+statsmodels
 scikit-learn
-matplotlib
-seaborn
-streamlit
-joblib
+kaleido
+python-dateutil
+pytz

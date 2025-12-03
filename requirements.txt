@@ -8,3 +8,5 @@ scikit-learn
 kaleido
 python-dateutil
 pytz
+matplotlib
+

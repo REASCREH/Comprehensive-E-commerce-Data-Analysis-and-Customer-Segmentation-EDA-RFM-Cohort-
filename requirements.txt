@@ -10,4 +10,7 @@ python-dateutil
 pytz
 matplotlib
 seaborn 
+lightgbm
+tensorflow
+
 
